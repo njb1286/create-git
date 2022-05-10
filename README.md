@@ -14,3 +14,5 @@ def mult(num1, num2):
 ## I'm in the readme branch
 
 > Another change
+
+> Updated file for git pull/fetch course
