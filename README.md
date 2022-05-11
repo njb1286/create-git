@@ -1,6 +1,6 @@
 # My Git Project
 
-> My code for the git project
+> A scary merge conflict that I have to solve
 
 ```
 print("Hello, Git!")
