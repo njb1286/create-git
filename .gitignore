@@ -5,3 +5,4 @@ fetch-vs-pull.txt
 new-branch.txt
 .gitignore
 remove-branch.txt
+merge-conflicts.txt
