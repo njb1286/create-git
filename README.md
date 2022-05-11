@@ -1,6 +1,6 @@
 # My Git Project
 
-> My code for the git project
+> And this is my change
 
 ```
 print("Hello, Git!")
