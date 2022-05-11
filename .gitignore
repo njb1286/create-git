@@ -4,3 +4,4 @@ push_from_another_branch.txt
 fetch-vs-pull.txt
 new-branch.txt
 .gitignore
+remove-branch.txt
