@@ -6,3 +6,4 @@ new-branch.txt
 .gitignore
 remove-branch.txt
 merge-conflicts.txt
+latest-commit.txt
