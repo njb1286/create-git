@@ -7,3 +7,5 @@ new-branch.txt
 remove-branch.txt
 merge-conflicts.txt
 latest-commit.txt
+.git
+.gitignore
